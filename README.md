@@ -1,0 +1,1 @@
+# typescript-linter-prettier-init
